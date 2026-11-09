@@ -25,14 +25,14 @@
 <!--  </div>-->
 <!--</template>-->
 <template>
-  <header class="fixed top-0 left-0 right-0 z-50 bg-surface-container-lowest/90 backdrop-blur-md border-b border-outline-variant/30">
+  <header class="fixed top-0 left-0 right-0 z-50 bg-surface-container-lowest/90 backdrop-blur-md bg-white border-b border-outline-variant/30">
     <div class="h-16 max-w-7xl mx-auto px-6 lg:px-8 flex items-center justify-between">
       <!-- Logo -->
      <Logo/>
 
       <!-- Navigation -->
       <nav class="hidden md:flex items-center gap-8">
-        <NuxtLink to="/" class="tracking-wide transition-colors text-primary font-semibold border-b-2 border-primary pb-0.5">
+        <NuxtLink to="/public" class="tracking-wide transition-colors text-primary font-semibold border-b-2 border-primary pb-0.5">
           Home
         </NuxtLink>
         <NuxtLink to="/products" class="font-body-sm text-body-sm tracking-wide text-on-surface-variant hover:text-primary transition-colors">
