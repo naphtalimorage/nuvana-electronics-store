@@ -6,7 +6,7 @@
         <!-- Left Content -->
         <div class="flex flex-col items-start space-y-6">
           <!-- Badge with dot -->
-          <Badge variant="outline" :dot="true" className="text-sm flex gap-1 items-center bg-blue-100 px-2 py-1 rounded-2xl">
+          <Badge variant="outline" :dot="true" className="text-sm flex gap-1 items-center bg-blue-100 px-3 py-1 rounded-2xl">
             Next-Generation Hardware • Official Kenyan Warranty
           </Badge>
 
