@@ -27,10 +27,10 @@
         <div class="space-y-3">
           <h3 class="font-label-caps text-label-caps text-on-surface uppercase tracking-wider font-semibold">Categories</h3>
           <ul class="space-y-2.5">
-            <li><NuxtLink to="/products" class="text-sm text-slate-500 hover:text-slate-700 transition-colors">Laptops & Workstations</NuxtLink></li>
-            <li><NuxtLink to="/products" class="text-sm text-slate-500 hover:text-slate-700 transition-colors">Flagship Smartphones</NuxtLink></li>
-            <li><NuxtLink to="/products" class="text-sm text-slate-500 hover:text-slate-700 transition-colors">High-Fidelity Audio</NuxtLink></li>
-            <li><NuxtLink to="/products" class="text-sm text-slate-500 hover:text-slate-700 transition-colors">Displays & Peripherals</NuxtLink></li>
+            <li><NuxtLink to="/app/pages/products" class="text-sm text-slate-500 hover:text-slate-700 transition-colors">Laptops & Workstations</NuxtLink></li>
+            <li><NuxtLink to="/app/pages/products" class="text-sm text-slate-500 hover:text-slate-700 transition-colors">Flagship Smartphones</NuxtLink></li>
+            <li><NuxtLink to="/app/pages/products" class="text-sm text-slate-500 hover:text-slate-700 transition-colors">High-Fidelity Audio</NuxtLink></li>
+            <li><NuxtLink to="/app/pages/products" class="text-sm text-slate-500 hover:text-slate-700 transition-colors">Displays & Peripherals</NuxtLink></li>
           </ul>
         </div>
 

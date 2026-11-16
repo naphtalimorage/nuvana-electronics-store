@@ -22,10 +22,10 @@
 
           <!-- Buttons -->
           <div class="flex flex-wrap items-center gap-4 pt-2">
-            <NuxtLink to="/products" class="inline-flex items-center justify-center px-8 py-3.5 rounded-xl bg-primary text-white font-title-md text-title-md font-semibold shadow-lg shadow-primary/20 hover:shadow-xl hover:shadow-primary/30 hover:scale-[1.02] transition-all">
+            <NuxtLink to="/app/pages/products" class="inline-flex items-center justify-center px-8 py-3.5 rounded-xl bg-primary text-white font-title-md text-title-md font-semibold shadow-lg shadow-primary/20 hover:shadow-xl hover:shadow-primary/30 hover:scale-[1.02] transition-all">
               Shop Now
             </NuxtLink>
-            <NuxtLink to="/products" class="inline-flex items-center justify-center gap-2 px-7 py-3.5 rounded-xl bg-white text-on-surface font-title-md text-title-md font-semibold shadow-md hover:shadow-lg hover:scale-[1.02] transition-all border border-outline-variant/20">
+            <NuxtLink to="/app/pages/products" class="inline-flex items-center justify-center gap-2 px-7 py-3.5 rounded-xl bg-white text-on-surface font-title-md text-title-md font-semibold shadow-md hover:shadow-lg hover:scale-[1.02] transition-all border border-outline-variant/20">
               <span>Explore Flagships</span>
               <ArrowRight class="w-5 h-5" />
             </NuxtLink>

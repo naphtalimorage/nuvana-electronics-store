@@ -7,7 +7,7 @@
           <h2 class="font-headline-lg text-2xl font-bold font-serif text-headline-lg text-on-surface mt-1">Featured Flagships</h2>
           <p class="font-body-md text-xs text-slate-600 text-body-md text-on-surface-variant mt-1">Curated selection of our most wanted high-performance devices.</p>
         </div>
-        <NuxtLink to="/products" class="inline-flex text-xs items-center gap-1.5 font-title-md text-title-md text-secondary hover:text-on-secondary-fixed-variant transition-colors group">
+        <NuxtLink to="/app/pages/products" class="inline-flex text-xs items-center gap-1.5 font-title-md text-title-md text-secondary hover:text-on-secondary-fixed-variant transition-colors group">
           <span>View All (128)</span>
           <ArrowRight className="w-5 h-5" size="15"/>
         </NuxtLink>
