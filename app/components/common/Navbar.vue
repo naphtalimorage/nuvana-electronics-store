@@ -6,7 +6,7 @@
 
       <!-- Navigation -->
       <nav class="hidden md:flex items-center gap-8">
-        <NuxtLink to="/public" class=" transition-colors text-primary font-semibold border-b-2 border-primary pb-0.5">
+        <NuxtLink to="/" class=" transition-colors text-primary font-semibold border-b-2 border-primary pb-0.5">
           Home
         </NuxtLink>
         <NuxtLink to="/products" class="font-body-sm text-body-sm tracking-wide text-on-surface-variant hover:text-primary transition-colors">

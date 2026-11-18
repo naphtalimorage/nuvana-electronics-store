@@ -47,7 +47,7 @@ defineProps({
   category: String,
   image: String,
   specs: String,
-  price: String,
+  price: String | Number,
   rating: Number,
   reviews: Number
 })
